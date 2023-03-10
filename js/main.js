@@ -1,5 +1,4 @@
 const COUNT_PICTURE = 25;
-const AVATAR_COUNT = 6;
 const COUNT_LIKE_MIN = 15;
 const COUNT_LIKE_MAX = 200;
 const COMMENT_COUNT = 15;
