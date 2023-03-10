@@ -66,6 +66,7 @@ const createPicture = (index) => ({
   ),
 });
 
+
 const getPictures = () =>
   Array.from({ length: COUNT_PICTURE }, (_, pictureIndex) =>
     createPicture(pictureIndex + 1)
